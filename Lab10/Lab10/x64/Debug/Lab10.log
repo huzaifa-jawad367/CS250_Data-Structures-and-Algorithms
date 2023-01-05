@@ -1,0 +1,4 @@
+﻿  Lab10.cpp
+C:\University Material\Semester 3\Data Structures and algorithms\Labs\Lab10\Lab10\Lab10.cpp(35,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\University Material\Semester 3\Data Structures and algorithms\Labs\Lab10\Lab10\Lab10.cpp(79,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab10.vcxproj -> C:\University Material\Semester 3\Data Structures and algorithms\Labs\Lab10\x64\Debug\Lab10.exe
